@@ -1,2 +1,2 @@
-today we have learn somenew command that are git add file_name to add file on stage
-second we have lern how to make then commit but the help of commnad git commit -m ""[Dmessage"
+hello my is pawan 
+today im learning git with my friend manu
