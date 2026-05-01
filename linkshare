@@ -1,0 +1,11 @@
+hello today we have learn about the git where we have mutile commnad 
+
+1---git status file_name
+2---git add file_name ---to push our file to staying area
+3---git commit -m "message" file_name --- to make you file commit and save the change we have made 
+4---git log file_name -- to check the log of the file and version of it what kind of change we have made accors the code 
+5---git checkout id_number: dir/file_name---to get the version of that file 
+5---git checkout master -- file_name --to get back to the oringal version of the file 
+6---git reset --hard HEAD^ --to move commit file on the staging area
+7---git diff file_name ---what diff between current version and previos version
+8--git show id_numeber :path/file_name
